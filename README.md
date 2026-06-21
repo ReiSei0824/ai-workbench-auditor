@@ -109,9 +109,10 @@ git clone https://github.com/ReiSei0824/ai-workbench-auditor.git ~/.claude/skill
 ## File Structure
 
 ```
-AI工位搭建师（ai-workbench-auditor）/
+ai-workbench-auditor/
 ├── README.md
-└── SKILL.md
+├── SKILL.md
+└── publish-checklist.md
 ```
 
 ## License
